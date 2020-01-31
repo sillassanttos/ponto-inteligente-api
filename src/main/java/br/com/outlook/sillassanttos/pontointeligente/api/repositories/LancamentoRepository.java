@@ -1,4 +1,4 @@
-package br.com.outlook.sillassanttos.pontointeligente.api.repository;
+package br.com.outlook.sillassanttos.pontointeligente.api.repositories;
 
 import java.util.List;
 
